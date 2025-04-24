@@ -104,3 +104,4 @@ cypress/screenshots
 # nyc test coverage
 # =========
 .nyc_output/
+config.bat
