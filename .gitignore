@@ -61,7 +61,6 @@ pids
 results
 config.js
 admins.json
-.env
 
 # Sublime editor
 # ==============
@@ -104,3 +103,4 @@ cypress/screenshots
 # nyc test coverage
 # =========
 .nyc_output/
+config.bat
